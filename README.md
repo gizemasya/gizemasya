@@ -1,4 +1,4 @@
-# 👋 Hi there 
+## 👋 Hi there 
 I am a Control and Automation Engineering student at Yildiz Technical University<br/>
 - Interested in AI & Robotics<br/>
 - Working in the field of autonomous vehicles<br/>
