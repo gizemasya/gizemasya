@@ -1,11 +1,11 @@
 ## 👋 Hi there 
-I am a Control and Automation Engineering student at Yildiz Technical University<br/>
-- Interested in AI & Robotics<br/>
-- Working in the field of autonomous vehicles<br/>
+I am a Control and Automation Engineering student at Yildiz Technical University
+- Interested in AI & Robotics
+- Working in the field of autonomous vehicles
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=gizemasya&show_icons=true&include_all_commits=true&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gizemasya&layout=compact&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=gizemasya&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gizemasya&layout=compact&theme=radical&hide_border=true)
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white)](https://linkedin.com/in/gizem-asya-yılmaz-6923aa21a)
