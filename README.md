@@ -5,6 +5,7 @@ I am a Control and Automation Engineering student at Yildiz Technical University
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=gizemasya&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gizemasya&layout=compact&theme=radical&hide_border=true)
 
 ## 🌐 Socials
